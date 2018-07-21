@@ -1,55 +1,8 @@
-#EXTM3U
-
-
-#EXTINF:-1,A&E HD
-http://listaccess.me:8080/live/gina/gina/7088.ts
-#EXTINF:-1,AMC HD
-http://listaccess.me:8080/live/gina/gina/2344.ts
-#EXTINF:-1,Boomerang  FHD
-http://listaccess.me:8080/live/gina/gina/7149.ts
-#EXTINF:-1,Cartoon Network HD
-http://listaccess.me:8080/live/gina/gina/2321.ts
-#EXTINF:-1,Cinemax HD
-http://listaccess.me:8080/live/gina/gina/7089.ts
-#EXTINF:-1,Comedy Central HD
-http://listaccess.me:8080/live/gina/gina/7098.ts
-#EXTINF:-1,Discovery Channel HD
-http://listaccess.me:8080/live/gina/gina/2315.ts
-#EXTINF:-1,Discovery Civilization HD
-http://listaccess.me:8080/live/gina/gina/2130.ts
-#EXTINF:-1,Discovery Home Health HD
-http://listaccess.me:8080/live/gina/gina/2313.ts
-#EXTINF:-1,Discovery Kids HD
-http://listaccess.me:8080/live/gina/gina/2146.ts
-#EXTINF:-1,Discovery Science HD
-http://listaccess.me:8080/live/gina/gina/2129.ts
-#EXTINF:-1,Discovery Theater HD
-http://listaccess.me:8080/live/gina/gina/2311.ts
-#EXTINF:-1,Discovery Turbo HD
-http://listaccess.me:8080/live/gina/gina/2309.ts
-#EXTINF:-1,Discovery World HD
-http://listaccess.me:8080/live/gina/gina/2308.ts
-#EXTINF:-1,Disney Channel HD
-http://listaccess.me:8080/live/gina/gina/2128.ts
-#EXTINF:-1,Fox Sport HD
-http://listaccess.me:8080/live/gina/gina/2286.ts
-#EXTINF:-1,FOX Sports 2 HD
-http://listaccess.me:8080/live/gina/gina/2283.ts
-#EXTINF:-1,Fox Sports FHD
-http://listaccess.me:8080/live/gina/gina/7171.ts
-#EXTINF:-1,FX HD
-http://listaccess.me:8080/live/gina/gina/2280.ts
-#EXTINF:-1,H2 HD
-http://listaccess.me:8080/live/gina/gina/2268.ts
-#EXTINF:-1,HBO 2 HD
-http://listaccess.me:8080/live/gina/gina/2265.ts
-#EXTINF:-1,HBO Family HD
-http://listaccess.me:8080/live/gina/gina/2263.ts
-#EXTINF:-1,HBO HD
+:-1,HBO HD
 http://listaccess.me:8080/live/gina/gina/2262.ts
 #EXTINF:-1,HBO Signature HD
 http://listaccess.me:8080/live/gina/gina/2257.ts
-#EXTINF:-1,Lifetime HD
+#EXTINF:-1,Lifetime H
 http://listaccess.me:8080/live/gina/gina/2141.ts
 #EXTINF:-1,Max UP HD
 http://listaccess.me:8080/live/gina/gina/7093.ts
@@ -58,7 +11,7 @@ http://listaccess.me:8080/live/gina/gina/2245.ts
 #EXTINF:-1,MTV HD
 http://listaccess.me:8080/live/gina/gina/2140.ts
 #EXTINF:-1,Multishow HD
-http://listaccess.me:8080/live/gina/gina/2242.ts
+http://listaccess.me:8080/live/gina/gina/2242.t
 #EXTINF:-1,NatGeo Kids HD
 http://listaccess.me:8080/live/gina/gina/2126.ts
 #EXTINF:-1,NatGeoWild HD
@@ -245,7 +198,7 @@ http://arabic-tv-box.de:7777/live/iWCSM4/r9fwNkMHwx/19169.ts
 http://arabic-tv-box.de:7777/live/iWCSM4/r9fwNkMHwx/19168.ts
 #EXTINF:-1,USA : DISNEY JR. HD
 http://arabic-tv-box.de:7777/live/iWCSM4/r9fwNkMHwx/19166.ts
-#EXTINF:-1,USA : DISNEY XD FHD
+#EXTINF:-1,USA : DISNEY XD FH
 http://arabic-tv-box.de:7777/live/iWCSM4/r9fwNkMHwx/19163.ts
 #EXTINF:-1,USA : DIY Network FHD
 http://arabic-tv-box.de:7777/live/iWCSM4/r9fwNkMHwx/19159.ts
