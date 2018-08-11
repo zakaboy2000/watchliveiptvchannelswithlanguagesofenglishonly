@@ -1,0 +1,371 @@
+ #EXTM3U
+#EXTINF:-1,CA | AHC
+http://shacktv.com:8080/live/video/video/320.ts
+#EXTINF:-1,CA | AMC
+http://shacktv.com:8080/live/video/video/442.ts
+#EXTINF:-1,CA | ANIMAL PLANET
+http://shacktv.com:8080/live/video/video/441.ts
+#EXTINF:-1,CA | APTN
+http://shacktv.com:8080/live/video/video/345.ts
+#EXTINF:-1,CA | ARTV
+http://shacktv.com:8080/live/video/video/344.ts
+#EXTINF:-1,CA | BBC CANADA
+http://shacktv.com:8080/live/video/video/343.ts
+#EXTINF:-1,CA | BBC KIDS
+http://shacktv.com:8080/live/video/video/342.ts
+#EXTINF:-1,CA | BBC WORLD NEWS
+http://shacktv.com:8080/live/video/video/440.ts
+#EXTINF:-1,CA | BET
+http://shacktv.com:8080/live/video/video/439.ts
+#EXTINF:-1,CA | BNN
+http://shacktv.com:8080/live/video/video/438.ts
+#EXTINF:-1,CA | BOOK TV
+http://shacktv.com:8080/live/video/video/437.ts
+#EXTINF:-1,CA | BRAVO
+http://shacktv.com:8080/live/video/video/436.ts
+#EXTINF:-1,CA | CANAL D
+http://shacktv.com:8080/live/video/video/341.ts
+#EXTINF:-1,CA | CANAL SAVOIR
+http://shacktv.com:8080/live/video/video/435.ts
+#EXTINF:-1,CA | CARTOON NETWORK
+http://shacktv.com:8080/live/video/video/434.ts
+#EXTINF:-1,CA | CASA
+http://shacktv.com:8080/live/video/video/433.ts
+#EXTINF:-1,CA | CBC NEWS
+http://shacktv.com:8080/live/video/video/432.ts
+#EXTINF:-1,CA | CBC OTTAWA
+http://shacktv.com:8080/live/video/video/319.ts
+#EXTINF:-1,CA | CBC TORONTO
+http://shacktv.com:8080/live/video/video/431.ts
+#EXTINF:-1,CA | CBC VANCOUVER
+http://shacktv.com:8080/live/video/video/318.ts
+#EXTINF:-1,CA | CBS EAST
+http://shacktv.com:8080/live/video/video/430.ts
+#EXTINF:-1,CA | CBS WEST
+http://shacktv.com:8080/live/video/video/317.ts
+#EXTINF:-1,CA | CHCH
+http://shacktv.com:8080/live/video/video/429.ts
+#EXTINF:-1,CA | CINEPOP
+http://shacktv.com:8080/live/video/video/316.ts
+#EXTINF:-1,CA | CITY TORONTO
+http://shacktv.com:8080/live/video/video/428.ts
+#EXTINF:-1,CA | CITY VANCOUVER
+http://shacktv.com:8080/live/video/video/340.ts
+#EXTINF:-1,CA | CMT CANADA
+http://shacktv.com:8080/live/video/video/427.ts
+#EXTINF:-1,CA | CNBC
+http://shacktv.com:8080/live/video/video/426.ts
+#EXTINF:-1,CA | CNN
+http://shacktv.com:8080/live/video/video/425.ts
+#EXTINF:-1,CA | CNN INTERNATIONAL
+http://shacktv.com:8080/live/video/video/424.ts
+#EXTINF:-1,CA | COMEDY EAST
+http://shacktv.com:8080/live/video/video/315.ts
+#EXTINF:-1,CA | COMEDY GOLD
+http://shacktv.com:8080/live/video/video/423.ts
+#EXTINF:-1,CA | COOKING CHANNEL
+http://shacktv.com:8080/live/video/video/422.ts
+#EXTINF:-1,CA | COSMO
+http://shacktv.com:8080/live/video/video/421.ts
+#EXTINF:-1,CA | COTTAGE LIFE
+http://shacktv.com:8080/live/video/video/420.ts
+#EXTINF:-1,CA | CP24
+http://shacktv.com:8080/live/video/video/419.ts
+#EXTINF:-1,CA | CPAC FRENCH
+http://shacktv.com:8080/live/video/video/417.ts
+#EXTINF:-1,CA | CPAC HD
+http://shacktv.com:8080/live/video/video/418.ts
+#EXTINF:-1,CA | CRIME & INVEST
+http://shacktv.com:8080/live/video/video/416.ts
+#EXTINF:-1,CA | CTV 2 VANCOUVER
+http://shacktv.com:8080/live/video/video/415.ts
+#EXTINF:-1,CA | CTV NEWS NETWORK
+http://shacktv.com:8080/live/video/video/414.ts
+#EXTINF:-1,CA | CTV OTTAWA
+http://shacktv.com:8080/live/video/video/413.ts
+#EXTINF:-1,CA | CTV TORONTO
+http://shacktv.com:8080/live/video/video/412.ts
+#EXTINF:-1,CA | CTV VANCOUVER
+http://shacktv.com:8080/live/video/video/314.ts
+#EXTINF:-1,CA | CTV2 OTTAWA
+http://shacktv.com:8080/live/video/video/313.ts
+#EXTINF:-1,CA | CW 11
+http://shacktv.com:8080/live/video/video/411.ts
+#EXTINF:-1,CA | DAYSTAR TV
+http://shacktv.com:8080/live/video/video/410.ts
+#EXTINF:-1,CA | DEJAVIEW
+http://shacktv.com:8080/live/video/video/409.ts
+#EXTINF:-1,CA | DISCOVERY CANADA
+http://shacktv.com:8080/live/video/video/312.ts
+#EXTINF:-1,CA | DISCOVERY SCIENCE CANADA
+http://shacktv.com:8080/live/video/video/311.ts
+#EXTINF:-1,CA | DISCOVERY VELOCITY
+http://shacktv.com:8080/live/video/video/408.ts
+#EXTINF:-1,CA | DISNEY
+http://shacktv.com:8080/live/video/video/407.ts
+#EXTINF:-1,CA | DISNEY CANADA
+http://shacktv.com:8080/live/video/video/310.ts
+#EXTINF:-1,CA | DISNEY FRENCH
+http://shacktv.com:8080/live/video/video/406.ts
+#EXTINF:-1,CA | DISNEY JR
+http://shacktv.com:8080/live/video/video/309.ts
+#EXTINF:-1,CA | DIY
+http://shacktv.com:8080/live/video/video/405.ts
+#EXTINF:-1,CA | DOCUMENTARY
+http://shacktv.com:8080/live/video/video/404.ts
+#EXTINF:-1,CA | DTOUR
+http://shacktv.com:8080/live/video/video/403.ts
+#EXTINF:-1,CA | E! CANADA
+http://shacktv.com:8080/live/video/video/308.ts
+#EXTINF:-1,CA | ENCORE 1 EAST
+http://shacktv.com:8080/live/video/video/402.ts
+#EXTINF:-1,CA | ENCORE 2 EAST
+http://shacktv.com:8080/live/video/video/307.ts
+#EXTINF:-1,CA | FAMILY CHRGD
+http://shacktv.com:8080/live/video/video/401.ts
+#EXTINF:-1,CA | FAMILY EAST
+http://shacktv.com:8080/live/video/video/306.ts
+#EXTINF:-1,CA | FAMILY WEST
+http://shacktv.com:8080/live/video/video/305.ts
+#EXTINF:-1,CA | FIGHT NETWORK
+http://shacktv.com:8080/live/video/video/400.ts
+#EXTINF:-1,CA | FOOD NETWORK
+http://shacktv.com:8080/live/video/video/399.ts
+#EXTINF:-1,CA | FOX EAST
+http://shacktv.com:8080/live/video/video/304.ts
+#EXTINF:-1,CA | FOX WEST
+http://shacktv.com:8080/live/video/video/397.ts
+#EXTINF:-1,CA | FOX NEWS
+http://shacktv.com:8080/live/video/video/398.ts
+#EXTINF:-1,CA | FTV CANADA
+http://shacktv.com:8080/live/video/video/303.ts
+#EXTINF:-1,CA | FYI
+http://shacktv.com:8080/live/video/video/395.ts
+#EXTINF:-1,CA | Game TV
+http://shacktv.com:8080/live/video/video/302.ts
+#EXTINF:-1,CA | GINX ESPORTS TV CANADA
+http://shacktv.com:8080/live/video/video/301.ts
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://shacktv.com:8080/live/video/video/447.ts
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://shacktv.com:8080/live/video/video/300.ts
+#EXTINF:-1,CA | GOLF
+http://shacktv.com:8080/live/video/video/394.ts
+#EXTINF:-1,CA | GOLF HD
+http://shacktv.com:8080/live/video/video/393.ts
+#EXTINF:-1,CA | GSN
+http://shacktv.com:8080/live/video/video/392.ts
+#EXTINF:-1,CA | GUSTO
+http://shacktv.com:8080/live/video/video/299.ts
+#EXTINF:-1,CA | H2 CANADA
+http://shacktv.com:8080/live/video/video/298.ts
+#EXTINF:-1,CA | HBO 1
+http://shacktv.com:8080/live/video/video/391.ts
+#EXTINF:-1,CA | HBO 2
+http://shacktv.com:8080/live/video/video/390.ts
+#EXTINF:-1,CA | HGTV
+http://shacktv.com:8080/live/video/video/389.ts
+#EXTINF:-1,CA | HISTORIO
+http://shacktv.com:8080/live/video/video/297.ts
+#EXTINF:-1,CA | HISTORY HD
+http://shacktv.com:8080/live/video/video/388.ts
+#EXTINF:-1,CA | HLN
+http://shacktv.com:8080/live/video/video/387.ts
+#EXTINF:-1,CA | ICI MONTREAL
+http://shacktv.com:8080/live/video/video/296.ts
+#EXTINF:-1,CA | ICI VANCOUVER
+http://shacktv.com:8080/live/video/video/295.ts
+#EXTINF:-1,CA | ID CANADA
+http://shacktv.com:8080/live/video/video/386.ts
+#EXTINF:-1,CA | IFC
+http://shacktv.com:8080/live/video/video/339.ts
+#EXTINF:-1,CA | KNOWLEDGE KIDS
+http://shacktv.com:8080/live/video/video/338.ts
+#EXTINF:-1,CA | KTLA
+http://shacktv.com:8080/live/video/video/294.ts
+#EXTINF:-1,CA | LCN
+http://shacktv.com:8080/live/video/video/337.ts
+#EXTINF:-1,CA | LEAFS TV
+http://shacktv.com:8080/live/video/video/293.ts
+#EXTINF:-1,CA | LIFETIME
+http://shacktv.com:8080/live/video/video/292.ts
+#EXTINF:-1,CA | MAVTV
+http://shacktv.com:8080/live/video/video/336.ts
+#EXTINF:-1,CA | MAX
+http://shacktv.com:8080/live/video/video/291.ts
+#EXTINF:-1,CA | METEO
+http://shacktv.com:8080/live/video/video/290.ts
+#EXTINF:-1,CA | MIRACLE
+http://shacktv.com:8080/live/video/video/335.ts
+#EXTINF:-1,CA | MOI CIE
+http://shacktv.com:8080/live/video/video/385.ts
+#EXTINF:-1,CA | MSNBC
+http://shacktv.com:8080/live/video/video/384.ts
+#EXTINF:-1,CA | MTIME
+http://shacktv.com:8080/live/video/video/383.ts
+#EXTINF:-1,CA | MTV
+http://shacktv.com:8080/live/video/video/382.ts
+#EXTINF:-1,CA | MUCH MUSIC
+http://shacktv.com:8080/live/video/video/289.ts
+#EXTINF:-1,CA | MUSIQUE PLUS
+http://shacktv.com:8080/live/video/video/381.ts
+#EXTINF:-1,CA | NAT GEO
+http://shacktv.com:8080/live/video/video/380.ts
+#EXTINF:-1,CA | NBA TV
+http://shacktv.com:8080/live/video/video/379.ts
+#EXTINF:-1,CA | NBC EAST
+http://shacktv.com:8080/live/video/video/378.ts
+#EXTINF:-1,CA | NBC WEST
+http://shacktv.com:8080/live/video/video/377.ts
+#EXTINF:-1,CA | NICK
+http://shacktv.com:8080/live/video/video/376.ts
+#EXTINF:-1,CA | NTV
+http://shacktv.com:8080/live/video/video/334.ts
+#EXTINF:-1,CA | OLN HD
+http://shacktv.com:8080/live/video/video/375.ts
+#EXTINF:-1,CA | OMNI 1
+http://shacktv.com:8080/live/video/video/374.ts
+#EXTINF:-1,CA | OMNI 2
+http://shacktv.com:8080/live/video/video/288.ts
+#EXTINF:-1,CA | ONE
+http://shacktv.com:8080/live/video/video/287.ts
+#EXTINF:-1,CA | OUTTV
+http://shacktv.com:8080/live/video/video/373.ts
+#EXTINF:-1,CA | OWN
+http://shacktv.com:8080/live/video/video/372.ts
+#EXTINF:-1,CA | PBS EAST
+http://shacktv.com:8080/live/video/video/371.ts
+#EXTINF:-1,CA | PEACH TREE
+http://shacktv.com:8080/live/video/video/286.ts
+#EXTINF:-1,CA | PRISE
+http://shacktv.com:8080/live/video/video/285.ts
+#EXTINF:-1,CA | RDI
+http://shacktv.com:8080/live/video/video/370.ts
+#EXTINF:-1,CA | RDS
+http://shacktv.com:8080/live/video/video/284.ts
+#EXTINF:-1,CA | RDS 2
+http://shacktv.com:8080/live/video/video/369.ts
+#EXTINF:-1,CA | SERIES +
+http://shacktv.com:8080/live/video/video/283.ts
+#EXTINF:-1,CA | SHOPPING
+http://shacktv.com:8080/live/video/video/368.ts
+#EXTINF:-1,CA | SHOWCASE EAST
+http://shacktv.com:8080/live/video/video/367.ts
+#EXTINF:-1,CA | SILVER SCREEN CLASSICS
+http://shacktv.com:8080/live/video/video/333.ts
+#EXTINF:-1,CA | SLICE
+http://shacktv.com:8080/live/video/video/282.ts
+#EXTINF:-1,CA | SMITHSONIAN
+http://shacktv.com:8080/live/video/video/366.ts
+#EXTINF:-1,CA | SPACE
+http://shacktv.com:8080/live/video/video/365.ts
+#EXTINF:-1,CA | SPIKE TV / PARAMOUNT CANADA
+http://shacktv.com:8080/live/video/video/281.ts
+#EXTINF:-1,CA | SPIKE TV USA
+http://shacktv.com:8080/live/video/video/364.ts
+#EXTINF:-1,CA | SUPER CHANNEL 1
+http://shacktv.com:8080/live/video/video/363.ts
+#EXTINF:-1,CA | SUPER CHANNEL 2
+http://shacktv.com:8080/live/video/video/362.ts
+#EXTINF:-1,CA | SUPER CHANNEL VAULT
+http://shacktv.com:8080/live/video/video/332.ts
+#EXTINF:-1,CA | SUPER ECRAN 1
+http://shacktv.com:8080/live/video/video/361.ts
+#EXTINF:-1,CA | SUPER ECRAN 2
+http://shacktv.com:8080/live/video/video/360.ts
+#EXTINF:-1,CA | SUPER ECRAN 3
+http://shacktv.com:8080/live/video/video/359.ts
+#EXTINF:-1,CA | SUPER ECRAN 4
+http://shacktv.com:8080/live/video/video/358.ts
+#EXTINF:-1,CA | TCM
+http://shacktv.com:8080/live/video/video/357.ts
+#EXTINF:-1,CA | TELE LATINO
+http://shacktv.com:8080/live/video/video/280.ts
+#EXTINF:-1,CA | TELE QUEBEC
+http://shacktv.com:8080/live/video/video/331.ts
+#EXTINF:-1,CA | TELE TOON EAST
+http://shacktv.com:8080/live/video/video/279.ts
+#EXTINF:-1,CA | TELE TOON FRENCH
+http://shacktv.com:8080/live/video/video/330.ts
+#EXTINF:-1,CA | TELEMAGINO
+http://shacktv.com:8080/live/video/video/356.ts
+#EXTINF:-1,CA | THE WEATHER NETWORK
+http://shacktv.com:8080/live/video/video/278.ts
+#EXTINF:-1,CA | TMN 1
+http://shacktv.com:8080/live/video/video/277.ts
+#EXTINF:-1,CA | TMN 2
+http://shacktv.com:8080/live/video/video/276.ts
+#EXTINF:-1,CA | TMN 3
+http://shacktv.com:8080/live/video/video/355.ts
+#EXTINF:-1,CA | TMN 4
+http://shacktv.com:8080/live/video/video/275.ts
+#EXTINF:-1,CA | TRAVEL   ESCAPE
+http://shacktv.com:8080/live/video/video/329.ts
+#EXTINF:-1,CA | TREEHOUSE
+http://shacktv.com:8080/live/video/video/274.ts
+#EXTINF:-1,CA | TV5 QUEBEC
+http://shacktv.com:8080/live/video/video/273.ts
+#EXTINF:-1,CA | TVA GATINEAU
+http://shacktv.com:8080/live/video/video/272.ts
+#EXTINF:-1,CA | TVA MONTREAL
+http://shacktv.com:8080/live/video/video/328.ts
+#EXTINF:-1,CA | TVA QUEBEC
+http://shacktv.com:8080/live/video/video/354.ts
+#EXTINF:-1,CA | TVA SPORTS
+http://shacktv.com:8080/live/video/video/353.ts
+#EXTINF:-1,CA | TVO
+http://shacktv.com:8080/live/video/video/271.ts
+#EXTINF:-1,CA | V MONTREAL
+http://shacktv.com:8080/live/video/video/327.ts
+#EXTINF:-1,CA | VIE
+http://shacktv.com:8080/live/video/video/326.ts
+#EXTINF:-1,CA | VISION
+http://shacktv.com:8080/live/video/video/352.ts
+#EXTINF:-1,CA | VRAK TV
+http://shacktv.com:8080/live/video/video/351.ts
+#EXTINF:-1,CA | W NETWORK
+http://shacktv.com:8080/live/video/video/325.ts
+#EXTINF:-1,CA | WFN
+http://shacktv.com:8080/live/video/video/324.ts
+#EXTINF:-1,CA | WGN
+http://shacktv.com:8080/live/video/video/323.ts
+#EXTINF:-1,CA | Wild TV
+http://shacktv.com:8080/live/video/video/322.ts
+#EXTINF:-1,CA | WSBK
+http://shacktv.com:8080/live/video/video/350.ts
+#EXTINF:-1,CA | YES TV
+http://shacktv.com:8080/live/video/video/270.ts
+#EXTINF:-1,CA | YOOPA
+http://shacktv.com:8080/live/video/video/269.ts
+#EXTINF:-1,CA | YTV
+http://shacktv.com:8080/live/video/video/321.ts
+#EXTINF:-1,CA | YTV West
+http://shacktv.com:8080/live/video/video/349.ts
+#EXTINF:-1,CA | Z TELE
+http://shacktv.com:8080/live/video/video/348.ts
+#EXTINF:-1,CA | ZESTE
+http://shacktv.com:8080/live/video/video/268.ts
+#EXTINF:-1,CA | SPORTSNET 360
+http://shacktv.com:8080/live/video/video/459.ts
+#EXTINF:-1,CA | SPORTSNET EAST
+http://shacktv.com:8080/live/video/video/458.ts
+#EXTINF:-1,CA | SPORTSNET ONE
+http://shacktv.com:8080/live/video/video/457.ts
+#EXTINF:-1,CA | SPORTSNET ONTARIO
+http://shacktv.com:8080/live/video/video/456.ts
+#EXTINF:-1,CA | SPORTSNET PACIFIC
+http://shacktv.com:8080/live/video/video/455.ts
+#EXTINF:-1,CA | SPORTSNET WEST
+http://shacktv.com:8080/live/video/video/454.ts
+#EXTINF:-1,CA | SPORTSNET WORLD
+http://shacktv.com:8080/live/video/video/453.ts
+#EXTINF:-1,CA | TSN 1
+http://shacktv.com:8080/live/video/video/452.ts
+#EXTINF:-1,CA | TSN 2
+http://shacktv.com:8080/live/video/video/451.ts
+#EXTINF:-1,CA | TSN 3
+http://shacktv.com:8080/live/video/video/450.ts
+#EXTINF:-1,CA | TSN 4
+http://shacktv.com:8080/live/video/video/449.ts
+#EXTINF:-1,CA | TSN 5
+http://shacktv.com:8080/live/video/video/448.ts
